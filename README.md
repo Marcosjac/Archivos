@@ -9,7 +9,7 @@ Este método muestra un menú de opciones para que el usuario elija una operaci�
 Para utilizar esta clase, debe:
 1.	Descargar el JAR.
 2.	crear un objeto de la clase Archivos.
-3.	importar la clase
+3.	importar la clase:
  import archivos.Archivos;
 4.	llamar al método herramientas ().
 Este método mostrará un menú interactivo para que el usuario realice operaciones de manejo de archivos. Ya las demás funciones se encuentran dentro del método.

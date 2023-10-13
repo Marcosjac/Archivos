@@ -24,5 +24,6 @@ Si al momento de importarla esta presenta problemas, no dudes en comunicarte con
 # Notas
 La clase utiliza la clase JFileChooser para interactuar con el sistema de archivos y permitir que el usuario seleccione archivos. Asegúrate de manejar las excepciones adecuadamente en tu aplicación para así evitar errores inesperados durante la ejecución.
 También ten en cuenta que este código utiliza entrada/salida estándar para interactuar con el usuario a través de la consola. Si estás desarrollando una aplicación con interfaz gráfica, deberás adaptar la interacción del usuario según tus necesidades. 
+si desea ver la documentacion de la libreria, puede descargar el .rar, descomprimir y acceder a los archivos HTML en donde se encuentra la informacion (preferiblemente Archivos.html que se encuentra dentro de una carpeta llamada archivos)
 
 

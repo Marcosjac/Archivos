@@ -10,10 +10,10 @@ Para utilizar esta clase, debe:
 1.	Descargar el JAR.
 2.	crear un objeto de la clase Archivos.  
     ```Archivos archivos = new Archivos ();```
-4.	importar la clase:
- ``import archivos.Archivos;``
+4.	importar la clase:        
+    ```import archivos.Archivos;```
 5.	llamar al método herramientas ().   
-     ``archivos.herramientas(); ``       
+     ```archivos.herramientas();```      
 Este método mostrará un menú interactivo para que el usuario realice operaciones de manejo de archivos. Ya las demás funciones se encuentran dentro del método.
  descargar el JAR que se encuentra arriba del todo se debe crear un objeto de la clase Archivos, importar la clase y llamar al método herramientas (). Ya las demás funciones se encuentran dentro de herramientas.
 

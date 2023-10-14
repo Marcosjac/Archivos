@@ -9,7 +9,7 @@ Este método muestra un menú de opciones para que el usuario elija una operaci�
 Para utilizar esta clase, debe:
 1.	Descargar el JAR.
 2.	crear un objeto de la clase Archivos.  
-    ``Archivos archivos = new Archivos ();``
+    ```Archivos archivos = new Archivos ();```
 4.	importar la clase:
  ``import archivos.Archivos;``
 5.	llamar al método herramientas ().   
